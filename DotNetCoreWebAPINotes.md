@@ -37,7 +37,7 @@
 ## Code Snippet
 ---------------
 
-```c#
+```csharp
 using HotelListing.API.Data;
 using Microsoft.AspNetCore.Mvc;
 
